@@ -12,10 +12,18 @@ Como deverá funcionar?
 -----------
 Cada software que vai ficar nas máquinas conterá um servidor e um cliente de Socket(java.net.Socket) e com isso elas vão se comunicar entre sí.
 
+TODO
+-----------
+- fix the encoding
+- fix server window
+- habilitar envio de arquivos
+- shrink algumas coisas
+- refatorar imports inúteis
+
 APSs anteriores:
 -----------
-* **APS 2º semestre  de 2018:** [CLIQUE AQUI](https://github.com/ogabriel/APS-UNIP-4sem)
-* **APS 1º semestre  de 2018:** [CLIQUE AQUI](https://github.com/ogabriel/APS-UNIP-3sem)
+* **APS 2º semestre de 2018:** [CLIQUE AQUI](https://github.com/ogabriel/APS-UNIP-4sem)
+* **APS 1º semestre de 2018:** [CLIQUE AQUI](https://github.com/ogabriel/APS-UNIP-3sem)
 * **APS 2º semestre de 2017:**  [CLIQUE AQUI](https://github.com/ogabriel/APS-UNIP-2sem)
-* **APS 1º semestre  de 2017:** [CLIQUE AQUI](https://github.com/ogabriel/APS-UNIP-1sem)
+* **APS 1º semestre de 2017:** [CLIQUE AQUI](https://github.com/ogabriel/APS-UNIP-1sem)
 
